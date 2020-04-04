@@ -1,0 +1,74 @@
+================================================
+Add 100000 elements
+Time for my LinkedList = 26341800
+Time for Java's LinkedList - 11297100
+
+Get elem by index. Index = 87699
+MyList have worked for 6850500, element = 87699
+Java's linked list have worked for 509100, element = 87699
+================================================
+Add 100000 elements
+Time for my LinkedList = 19278400
+Time for Java's LinkedList - 15101200
+
+Get elem by index. Index = 87699
+MyList have worked for 4371000, element = 87699
+Java's linked list have worked for 525800, element = 87699
+================================================
+Add 100000 elements
+Time for my LinkedList = 19476000
+Time for Java's LinkedList - 12403700
+
+Get elem by index. Index = 87699
+MyList have worked for 4275100, element = 87699
+Java's linked list have worked for 523900, element = 87699
+================================================
+Add 100000 elements
+Time for my LinkedList = 18286500
+Time for Java's LinkedList - 11969200
+
+Get elem by index. Index = 87699
+MyList have worked for 4090400, element = 87699
+Java's linked list have worked for 558100, element = 87699
+================================================
+========================================================================================
+Add 1000000 elements
+Time for my LinkedList = 272210900
+Time for Java's LinkedList - 436467700
+
+Get elem by index. Index = 534212
+MyList have worked for 21086800, element = 534212
+Java's linked list have worked for 25637400, element = 534212
+================================================
+Add 1000000 elements
+Time for my LinkedList = 291783200
+Time for Java's LinkedList - 443126200
+
+Get elem by index. Index = 534212
+MyList have worked for 19275300, element = 534212
+Java's linked list have worked for 24590600, element = 534212
+================================================
+Add 1000000 elements
+Time for my LinkedList = 272830700
+Time for Java's LinkedList - 333670200
+
+Get elem by index. Index = 534212
+MyList have worked for 16849400, element = 534212
+Java's linked list have worked for 14467900, element = 534212
+================================================
+Add 1000000 elements
+Time for my LinkedList = 280315300
+Time for Java's LinkedList - 334225400
+
+Get elem by index. Index = 534212
+MyList have worked for 18731400, element = 534212
+Java's linked list have worked for 27226200, element = 534212
+================================================
+Add 1000000 elements
+Time for my LinkedList = 269508900
+Time for Java's LinkedList - 341250300
+
+Get elem by index. Index = 534212
+MyList have worked for 19976800, element = 534212
+Java's linked list have worked for 10771100, element = 534212
+================================================
