@@ -1,1 +1,1 @@
-# It's my implementation of  java.util.LinkedList class.
+It's my implementation of  java.util.LinkedList class.
